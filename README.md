@@ -6,7 +6,7 @@ Frontend Developer with 3+ years of experience.
 * linkedin: [linkedin.com/in/maxxborer](https://www.linkedin.com/in/maxxborer/)
 * email: maxxborer@gmail.com
 * cv: [cloud.maxxborer.com/s/cv](https://cloud.maxxborer.com/s/cv)
-* [maxxborer.com](maxxborer.com)
+* [maxxborer.com](https://maxxborer.com)
 
 <br />
 
