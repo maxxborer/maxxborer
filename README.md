@@ -10,11 +10,7 @@ Frontend Developer with 4+ years of experience.
 
 <br />
 
-<p align="center">
-  <table>
-  <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=maxxborer&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=2E3239&cache_seconds=1800" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxborer&layout=compact&hide_border=true&hide_title=true&hide=java&theme=dark&icon_color=5194f0&bg_color=2E3239&cache_seconds=1800" /></td>
-  </tr>
-</table>
-</p>
+<div align="center">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=maxxborer&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=2E3239&cache_seconds=60" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxborer&layout=compact&hide_border=true&hide_title=true&hide=java&theme=dark&icon_color=5194f0&bg_color=2E3239&cache_seconds=60"/>
+</div>
