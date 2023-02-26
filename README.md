@@ -1,12 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋  My name is <code>Maxx Borer</code></h1>
 
-Frontend Developer with 5+ years of experience.
+<h3 align="center"><code>Frontend Developer</code> with 5+ years of experience.</h2>
 
-* telegram: [@maxxborer](https://t.me/maxxborer)
-* linkedin: [linkedin.com/in/maxxborer](https://www.linkedin.com/in/maxxborer/)
-* email: maxxborer@gmail.com
-* cv: [cloud.maxxborer.com/s/cv](https://cloud.maxxborer.com/s/cv)
-* [maxxborer.com](https://maxxborer.com)
+<br />
+
+<div align="center">
+  <p align="center"><a href="https://t.me/maxxborer">t.me/maxxborer</a></p>
+  <p align="center"><a href="https://www.linkedin.com/in/maxxborer/">linkedin.com/in/maxxborer</a></p>
+  <p align="center"><a href="https://cloud.maxxborer.com/s/cv">cloud.maxxborer.com/s/cv</a></p>
+  <p align="center"><a href="https://maxxborer.com">maxxborer.com</a></p>
+  <p align="center"><a href="mailto:maxxborer@gmail.com">maxxborer@gmail.com</a></p>
+</div>
 
 <br />
 
