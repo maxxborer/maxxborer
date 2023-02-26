@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend Developer with 4+ years of experience.
+Frontend Developer with 5+ years of experience.
 
 * telegram: [@maxxborer](https://t.me/maxxborer)
 * linkedin: [linkedin.com/in/maxxborer](https://www.linkedin.com/in/maxxborer/)
