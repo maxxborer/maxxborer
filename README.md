@@ -7,8 +7,7 @@
 <div align="center">
   <p align="center"><a href="https://t.me/maxxborer">t.me/maxxborer</a></p>
   <p align="center"><a href="https://www.linkedin.com/in/maxxborer/">linkedin.com/in/maxxborer</a></p>
-  <p align="center"><a href="https://cloud.maxxborer.com/s/cv">cloud.maxxborer.com/s/cv</a></p>
-  <p align="center"><a href="https://maxxborer.com">maxxborer.com</a></p>
+  <p align="center"><a href="https://cloud.maxxborer.com/s/cv">cv</a></p>
   <p align="center"><a href="mailto:maxxborer@gmail.com">maxxborer@gmail.com</a></p>
 </div>
 
