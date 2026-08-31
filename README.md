@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Maxim
+## Hi 👋 I'm Max
 
 **Senior Frontend Engineer**
 
