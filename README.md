@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**maxxborer/maxxborer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Maxim
 
-Here are some ideas to get you started:
+**Senior Frontend Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TypeScript · Vue · Nuxt · Frontend Architecture · Developer Tooling
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,vue,nuxtjs,vite,vitest,nodejs" alt="TypeScript, Vue, Nuxt, Vite, Vitest and Node.js">
+
+<br>
+
+<h4>
+<a href="https://cv.maxxborer.com/">CV / Resume</a>
+</h4>
+
+</div>
