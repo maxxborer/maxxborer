@@ -1,6 +1,6 @@
 # Engineering notes
 
-A closer look at implementation choices behind selected public projects. These are examples of engineering work, **not claims about production scale, business impact, or test coverage**.
+Implementation decisions, constraints, and trade-offs behind selected public projects, with links to source code and technical documentation.
 
 ## 1. Recovering from expired sessions without a request storm
 
@@ -19,7 +19,7 @@ A closer look at implementation choices behind selected public projects. These a
 
 **Inspect:** [architecture and sequence diagrams](https://github.com/maxxborer/token-renewal-example/blob/main/docs/architecture.md) · [manual test scenarios](https://github.com/maxxborer/token-renewal-example/blob/main/docs/test-cases.md) · [source and demo](https://github.com/maxxborer/token-renewal-example)
 
-This is a demonstration project; its documented test scenarios should not be interpreted as a verified production SLA.
+The repository is a reference implementation; its test scenarios are documented for manual validation.
 
 ## 2. Keeping a multi-app TypeScript workspace coherent
 
@@ -34,7 +34,7 @@ This is a demonstration project; its documented test scenarios should not be int
 - Run type checks, repository checks, tests, and build/release steps through defined scripts and CI.
 - Keep deployment separate from artifact generation so published outputs come from a verified build.
 
-**Trade-off.** A monorepo simplifies shared code and coordinated changes at the cost of more deliberate build orchestration. Not every check is run in every workflow: for example, the repository documents a separate manual C# test command.
+**Trade-off.** A monorepo simplifies shared code and coordinated changes at the cost of more deliberate build orchestration.
 
 **Inspect:** [repository overview](https://github.com/maseaaao/maseaaao.tv) · [scripts and workspace boundaries](https://github.com/maseaaao/maseaaao.tv/blob/main/package.json) · [website build and deployment decisions](https://github.com/maseaaao/maseaaao.tv/blob/main/apps/website/README.md)
 
@@ -70,7 +70,3 @@ This is a demonstration project; its documented test scenarios should not be int
 **Trade-off.** Using native WidgetKit limits platform reach but integrates with macOS. Ad-hoc builds are less convenient to install than notarized ones, so the project documents the difference rather than hiding it.
 
 **Inspect:** [README](https://github.com/maxxborer/just-calendar-widget) · [CI workflow](https://github.com/maxxborer/just-calendar-widget/blob/main/.github/workflows/ci.yml) · [releases](https://github.com/maxxborer/just-calendar-widget/releases)
-
----
-
-I prefer linking to inspectable code, documented behavior, and explicit limitations over attributing unverified impact numbers to personal projects.
