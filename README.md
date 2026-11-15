@@ -35,4 +35,4 @@ I've written up the problems, approaches, and trade-offs behind these projects:
 
 **[Read engineering notes →](ENGINEERING.md)**
 
-They link to the actual repositories, architecture docs, CI configuration, and known limitations. No invented production metrics or claims of unverified impact.
+Each case links to source code, architecture documentation, CI configuration, and the constraints behind the implementation.
